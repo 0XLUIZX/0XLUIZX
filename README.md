@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm Bilal Lakhlifi
 
-<!--
-**0XLUIZX/0XLUIZX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Passionate about IT, Python, and Email Marketing**  
+🎯 Focused on learning new technologies and improving my skills every day  
+🌱 Currently exploring Cybersecurity, AI, and Data Science
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- **Programming:** Python (Basics, Automation)  
+- **IT & Networking:** Troubleshooting, Helpdesk, Desktop Support  
+- **Digital Marketing:** Email Campaigns, Marketing Automation  
+- **Tools:** Git, GitHub, VS Code, Mailchimp, HubSpot  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+
+---
+
+## 🌟 Fun Fact
+
+- 🚀 Always curious to learn new tech  
+- 🎮 Enjoy problem-solving and coding challenges  
+- 🌐 Exploring the world of IT and digital marketing  
+
+---
+
